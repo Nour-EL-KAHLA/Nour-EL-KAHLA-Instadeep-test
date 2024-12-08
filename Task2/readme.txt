@@ -1,0 +1,1 @@
+I used the Dependency Injection (DI) method. :)
